@@ -18,5 +18,6 @@ git checkout <branch_name>
 ```
 
 ## 사용 가능한 버전
-- ubuntu 22.04 LTS Desktop
-  - URL : 
+- Branch 이름
+    - [ubuntu_22.04_desktop](https://github.com/tylee-yeonge/ubuntu_environment_setup/tree/ubuntu_22.04_desktop)
+
